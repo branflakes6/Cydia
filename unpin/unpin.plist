@@ -27,6 +27,7 @@
 			"com.apple.cloudkit.CloudKitDaemon",
 			"com.apple.iTunesCloud",
 			"com.apple.courier.push",
+			"com.apple.aidc",
 		);
 	};
 }
